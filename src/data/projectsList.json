@@ -1,0 +1,23 @@
+[
+  {
+    "projectTitle": "Twitch Quotes",
+    "projectDescription": "Built a discord bot using node.js API that allows user to interact with the bot to summon it into a channel to play acertain popular clip from twitch.tv. The Bot is hosted on Heroku and available 24/7.",
+    "projectUrl": "https://github.com/dogpatch626/Twitch-Quotes",
+    "projectImage": "/assets/images/pfp.jpg",
+    "projectTechStack": ["Node", "Discord API", "Heroku"]
+  },
+  {
+    "projectTitle": "FoodWaze",
+    "projectDescription": "Built a web application in a group of intended to connect CUNY students in hopes to reduce waste and save money by showing where you can find free food currently on their campus ",
+    "projectUrl": "https://github.com/ajilk/foodwaze",
+    "projectImage": "/assets/images/brand.png",
+    "projectTechStack": ["Node, React, Heroku, Postgresql, Git"]
+  },
+  {
+    "projectTitle": "Volatility",
+    "projectDescription": "Used the volatility framework tool written in python in order to analyze captured memory from infected machines Using this tool allowed to look at a plethora of information including finding the infected and injected application and allowing to come up with a plan for isolation and determining the severity of the infection ",
+    "projectUrl": "https://github.com/dogpatch626/VolitilitySchool/blob/master/capstone%20%20first%20draft.pdf",
+    "projectImage": "/assets/images/H3UBmbSb_400x400.jpg",
+    "projectTechStack": ["Kali Linux", "Virtual Box", "Python", ""]
+  }
+]
