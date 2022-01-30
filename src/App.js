@@ -6,7 +6,7 @@ import About from './components/About'
 import React from 'react'; 
 import { useState, useEffect } from 'react'
 
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Route, HashRouter } from 'react-router-dom'
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(true)
@@ -26,11 +26,11 @@ function App() {
         
         <Navigation handleDarkModeToggle={() => setIsDarkMode(!isDarkMode)} />
 
-        <Switch>
+        <HashRouter>
           <Route path='/' exact component={() => <Home darkMode={isDarkMode} />} />
           <Route path='/projects' component={Projects} />
           <Route path='/about' component={About} />
-        </Switch>
+        </HashRouter>
       </div>
     </Router>
   )
