@@ -5,7 +5,11 @@
   align-items: center;
   height: 100vh;
 }
-
+@media screen and (min-width: 200px){
+  .projects-list{
+    height: 60vh ;
+  }
+}
 .projects-container .projects-list {
   width: 50vw;
   max-width: 60vw;

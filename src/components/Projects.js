@@ -8,6 +8,7 @@ const Projects = () => {
     <div className='projects-container'>
       <div className='projects-header'>
         <h1>Projects</h1>
+        
       </div>
       <div className='projects-list'>
         {projects.map((project, idx) => (

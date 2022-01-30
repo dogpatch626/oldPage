@@ -1,4 +1,11 @@
 [
+  {
+    "workRole": "Core Web Engineer - Engineer III",
+    "workCompany": "American Express: Contract",
+    "workTimeframe": "October 2021 - Present",
+    "workDescription": "Maintain and update enterprise and open-source tools that are used by most engineers under American Express to develop web applications. Technologies used include Node.js, React, Yarn, and Docker.",
+    "workBulletNotes": ["Actively learning new tools and frameworks is all apart of the job as we continuously update our open source frameworks. ", "The main technology maintained is One App, a react framework that takes a micro front end approach for managing the potentially colossal codebase that can come with react applications. "]
+  },
   
   {
     "workRole": "Resident",
@@ -7,4 +14,5 @@
     "workDescription": "Selected for a full stack JavaScript training program, as one of 125 students out of 400+ applicants Learn in-demand technologies like React, Node + Express, and PostgreSQL as well as industry best practices fordesign, implementation, and deployment such as MVC, version control with Git/GitHub, agile & scrum with Trello and Slack, test driven development, and CI/CD.",
     "workBulletNotes": ["Learned the fundamentals of JavaScript, Node.js, React, Express, and dabbled in PostgreSQL", "Developed 2 full stack websites showcasing the knowledge learned from the bootcamp"]
   }
+ 
 ]
